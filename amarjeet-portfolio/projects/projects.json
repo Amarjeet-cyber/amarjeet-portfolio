@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Blog Website ",
+    "desc": "I had Created Blog Website (Techsaarthi )Using Wordpress on this website i use to post blog related to New Technology",
+    "image": "quotegen",
+   
+  },
+  {
+    "name": "Portfolio Site",
+    "desc": "A portfolio showcasing an ADCA teacher's work, with a project gallery, student testimonials, and achievements.",
+    "image": "roushansir",
+    "category": "Web App",
+    
+  },
+  {
+    "name": "QuickChat",
+    "desc": "QuickChat lets users enter a username and quickly connect to WhatsApp, Instagram, or Telegram for instant chatting.",
+    "image": "quickchat",
+    "category": "Web App",
+   
+  },
+  {
+    "name": "New Year Card",
+    "desc": "This project is a simple and interactive New Year 2024 greeting card webpage created using HTML, CSS, and JavaScript.",
+    "image": "newyear",
+    "category": "Web App",
+  
+  }
+]
